@@ -1,4 +1,4 @@
-# Visual-Basic
+# Visual_Basic
 Pac-Man Game
 
 Fully functioning Pac-man game
